@@ -15,8 +15,8 @@ A Python tool that automatically checks your project's dependencies for updates 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/dependency-update-notifier.git
-cd dependency-update-notifier
+git clone https://github.com/makalin/DUN.git
+cd DUN
 ```
 
 2. Install the required dependencies:
